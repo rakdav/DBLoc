@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Страны</string>
+    <string name="country_name">Введите страну</string>
+    <string name="country_capital">Введите столицу</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+</resources>
